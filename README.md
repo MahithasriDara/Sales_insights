@@ -51,11 +51,4 @@ This project presents a **Sales Insight Dashboard** developed using **Power BI**
 - Include forecasting and predictive insights using AI visuals
 - Automate data refresh from cloud-based sources
 
-## 👤 Author
-
-- **Your Name** – [Your GitHub](https://github.com/MahithasriDara)
-
----
-
-⭐️ *If you like this project, give it a star!*
 
